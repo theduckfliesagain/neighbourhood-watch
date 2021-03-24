@@ -7,4 +7,9 @@ The NW DB uses a relational database to stores details about houses and their oc
 
 ![image](https://user-images.githubusercontent.com/9281981/112292140-b11f6e00-8c88-11eb-8a37-f1bcb2c8edc6.png)
 
+## Documentation
+You can access the documentation here :
+
+https://neighbourhoodwatch.docs.apiary.io/
+
 
